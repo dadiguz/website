@@ -1,0 +1,5 @@
+.DS_Store
+.contentlayer/
+.idea/
+.next/
+node_modules/
