@@ -33,7 +33,7 @@ export default function LanguageChanger() {
     return (
         <div >
             <a
-                href="#/"
+                href="#"
                 onClick={() => handleChangeLocale('en')}
                 className={`mr-2 ${i18n.language === 'en' ? 'font-bold text-orange-500' : ''}`}
             >
